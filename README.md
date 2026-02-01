@@ -45,18 +45,16 @@ Servo Motor
 ```
 SmartBin/
 │
-├── code/
+├──code/
 │   └── smartbin_code
 │        └── smartbin_code
-│
-├── docs/
-│   ├── SmartBin_Report.pdf
-│
-│
-├── demo/
-│   └── demo_video.mp4
-│
-└── README.md
+├── SmartBin_Report.pdf
+├── demo_video.mp4
+├── README.md
+├── requirements.txt
+├── .gitignore
+└── LICENSE
+
 ```
 
 
@@ -75,7 +73,7 @@ SmartBin/
 - Public places
 
 ## Author
-K Nithin Kumar Goud ,
+nithinxdx ,
 Electronics & Communication Engineering
 
 ## License
