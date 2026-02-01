@@ -52,5 +52,5 @@ Servo Motor
 - Public places
 
 ## Author
-nithinxdx ,
+K Nithin Kumar Goud ,
 Electronics & Communication Engineering
