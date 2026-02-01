@@ -38,27 +38,6 @@ Servo Motor
 3. Arduino rotates servo to open lid
 4. After delay, lid closes automatically
 
-## Project Structure
-
-## Project Structure
-
-```
-SmartBin/
-│
-├──code/
-│   └── smartbin_code
-│        └── smartbin_code
-├── SmartBin_Report.pdf
-├── demo_video.mp4
-├── README.md
-├── requirements.txt
-├── .gitignore
-└── LICENSE
-
-```
-
-
-
 ## How to Run
 1. Install Arduino IDE
 2. Open code/SmartBin_Code/SmartBin_Code.ino
@@ -75,7 +54,3 @@ SmartBin/
 ## Author
 nithinxdx ,
 Electronics & Communication Engineering
-
-## License
-MIT License
-
